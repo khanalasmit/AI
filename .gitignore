@@ -2,3 +2,4 @@
 /lcenv/Lib
 /lcenv/Scripts
 /lcenv/share
+/lcenv/notebooks/.env
